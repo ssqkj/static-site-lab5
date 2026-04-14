@@ -30,7 +30,7 @@ export default function App() {
             </header>
 
             <main>
-                <h1>Сторінка React</h1>
+                <h1>Проєкт React</h1>
                 <Reviews />
             </main>
 
