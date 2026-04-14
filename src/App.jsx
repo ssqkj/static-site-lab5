@@ -25,7 +25,7 @@ export default function App() {
         <div className={`app-container ${theme}`}>
             <header>
                 <button onClick={toggleTheme} className="theme-toggle-btn">
-                    Перемкнути тему (Поточна: {theme === 'light' ? 'Денна' : 'Нічна'})
+                    Змінити тему (Поточна: {theme === 'light' ? 'Денна' : 'Нічна'})
                 </button>
             </header>
 
